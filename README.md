@@ -1,4 +1,4 @@
-This script triggers 'wp cron event run --due-now' for all subsites in a WordPress installation. It is designed to be called from a cron job and requires the path to the WordPress installation as its first argument.
+This script triggers `wp cron event run --due-now` for all subsites in a WordPress installation. It is designed to be called from a cron job and requires the path to the WordPress installation as its first argument.
 
 CRON JOB USAGE EXAMPLE ---
 
